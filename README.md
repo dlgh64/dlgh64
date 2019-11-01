@@ -16,5 +16,5 @@
 Take it slow
 </li>
 <li>
-Thanks for the time </a href="https://jupyter.org/">and</a> I will see you tomorrow
+Thanks for the time <a href="https://jupyter.org/">and</a> I will see you tomorrow
 </li>
