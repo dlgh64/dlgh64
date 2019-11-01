@@ -18,3 +18,6 @@ Take it slow
 <li>
 Thanks for the time <a href="https://jupyter.org/">and</a> I will see you tomorrow
 </li>
+<p>
+I will be there in the morning but <li>We need a<a href="https://dictionary.cambridge.org/"> good night</a> and we are all here </li>We will have a great weekend and will see 
+</p>
